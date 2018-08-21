@@ -18,5 +18,8 @@ public class Calculator implements
 	{
 		return num1 - num2;
 	}
-
+	public void run() 
+	{
+		
+	}
 }
